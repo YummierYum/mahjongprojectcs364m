@@ -1,0 +1,4 @@
+pymahjong-offline-data-20M/
+checkpoints/
+*.pth
+*.pt
